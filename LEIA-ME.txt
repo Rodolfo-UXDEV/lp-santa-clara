@@ -1,0 +1,17 @@
+SANTA CLARA CHEVROLET — LANDING PAGE DE SELEÇÃO DE UNIDADE
+
+Arquivos incluídos:
+- index.html: página principal
+- bg-chevrolet.jpeg: imagem de fundo
+- logo-chevrolet-v3.png: logo Chevrolet
+
+Como usar:
+1. Mantenha os três arquivos na mesma pasta.
+2. Abra o arquivo index.html no navegador ou envie os três arquivos para a hospedagem.
+3. Os quatro botões já estão configurados para abrir os respectivos WhatsApps.
+
+Unidades:
+- Vila Nova - Blumenau/SC — (47) 3221-0313
+- 2 de Setembro - Blumenau/SC — (47) 3057-7300
+- Badenfurt BR470 - Blumenau/SC — (47) 3331-5010
+- Gaspar/SC — (47) 3308-3201
