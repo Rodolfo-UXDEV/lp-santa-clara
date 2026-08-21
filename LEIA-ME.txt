@@ -9,6 +9,7 @@ Como usar:
 1. Mantenha os três arquivos na mesma pasta.
 2. Abra o arquivo index.html no navegador ou envie os três arquivos para a hospedagem.
 3. Os quatro botões já estão configurados para abrir os respectivos WhatsApps.
+4. No celular, a página permite rolagem vertical para exibir todos os botões.
 
 Unidades:
 - Vila Nova - Blumenau/SC — (47) 3221-0313
